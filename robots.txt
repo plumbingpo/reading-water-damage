@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationreading.com/sitemap.xml
